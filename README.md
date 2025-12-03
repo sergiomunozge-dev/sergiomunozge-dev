@@ -14,8 +14,8 @@ I'm not just a programmer; I'm a **builder** and an **explorer**. My passion for
 * **Problem-Solving:** Programming is the ultimate puzzle. I thrive on breaking down complex challenges into manageable steps and using logic to create elegant and functional solutions.
 * **Creation:** There's immense satisfaction in turning an abstract idea into a tangible, working **application** or **feature**. I enjoy the process of bringing digital concepts to life.
 
----
-
+--
+<!--
 ## ✨ What You'll Find Here
 
 This is my digital workshop, a place where I document my journey, showcase my projects, and experiment with new technologies.
@@ -25,7 +25,7 @@ This is my digital workshop, a place where I document my journey, showcase my pr
 | **Current Focus** | Improving my skills in **[Menciona tu tecnología principal, e.g., React, Python, Java]** and **Cloud Services (AWS/Azure)**. |
 | **Projects** | Full-stack applications, smaller utilities, and coding challenges. |
 | **Learning** | Repositories for tutorials, personal notes, and proofs-of-concept. |
-
+-->
 ---
 
 ## 🤝 Let's Connect!
